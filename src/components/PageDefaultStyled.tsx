@@ -1,9 +1,8 @@
 import styled from 'styled-components';
 
 const PageDefaultStyled = styled.div`
-  height: 100%;
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   flex-direction: column;
 `;
 
