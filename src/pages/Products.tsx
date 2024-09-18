@@ -1,5 +1,5 @@
 import ButtonDefault from '../components/button-default/ButtonDefault';
-import PageDefault from '../components/PageDefault';
+import PageDefault from '../config/layout/PageDefault';
 
 function Products() {
   function handleClick() {
